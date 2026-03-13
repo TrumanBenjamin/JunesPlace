@@ -301,12 +301,12 @@ h1 {
   font-size: 0.78rem;
   letter-spacing: 0.06em;
   color: var(--forest-dark);
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .hero-card h2 {
   font-size: clamp(2.2rem, 9vw, 3.4rem);
-  color: #2f2216;
+  color: #fff7ef;
   margin: 0.4rem 0 0.55rem;
 }
 
